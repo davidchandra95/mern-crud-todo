@@ -1,0 +1,1 @@
+Used to update the state object in "store". Just like actions, application can have multiple reducers.

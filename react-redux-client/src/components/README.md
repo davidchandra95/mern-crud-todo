@@ -1,0 +1,1 @@
+Let us split the UI into independent, reusable pieces, and think about each piece in isolation

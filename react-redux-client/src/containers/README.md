@@ -1,0 +1,1 @@
+A component that is responsible for retrieving data, and in order to get that data, the component needs to use Redux's "connect" and "mapStateToProps" functions.

@@ -1,0 +1,1 @@
+plain js object that send data from application to "store"
